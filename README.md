@@ -2,10 +2,11 @@
  [ ![Download](https://api.bintray.com/packages/madhavanmalolan/android/bucketkeyvaluedb/images/download.svg) ](https://bintray.com/madhavanmalolan/android/bucketkeyvaluedb/_latestVersion)
 
 This is a very simple Key-Value Database for Android.
-It is a wrapper around the inbuilt SQLite Db.
+It is a wrapper around the inbuilt SQLite Db - so, it won't bloat your app size!
 
 It is fast, easy to integrate, and useful for every project.
 
+[Blog](https://medium.com/madhavanmalolan/the-library-every-android-developer-needs-630009512388)
 
 ## Gradle Build
 Add this to the app level build.gradle
